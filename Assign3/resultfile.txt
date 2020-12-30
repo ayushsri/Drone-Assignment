@@ -1,0 +1,4 @@
+Drone Name drone1Drone Id d11Drone speed 2.0Drone x pos0.0Drone y pos0.0Drone heading30.0
+Drone Name drone2Drone Id d12Drone speed 2.0Drone x pos1.0Drone y pos2.0Drone heading60.0
+Drone Name drone3Drone Id d13Drone speed 1.0Drone x pos1.0Drone y pos2.0Drone heading150.0
+Drone Name TransPortdrone1Drone Id TD11Drone speed 2.0Drone x pos0.0Drone y pos0.0Drone heading30.0Drone height3Drone width6Drone lentgh5

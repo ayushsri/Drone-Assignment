@@ -1,0 +1,3 @@
+Drone Name drone1Drone Id d11Drone load Capacity 0.0
+Drone Name drone2Drone Id d12Drone load Capacity 0.0
+Drone Name drone3Drone Id d13Drone load Capacity 0.0
